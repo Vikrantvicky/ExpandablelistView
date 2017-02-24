@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Expandable list View</string>
+
+    <string-array name="header">
+        <item>harry potter</item>
+        <item>twilight</item>
+        <item>batman</item>
+    </string-array>
+
+    <string-array name="h1_item">
+        <item>sorcers</item>
+    </string-array>
+
+    <string-array name="h2_item">
+        <item>new moon</item>
+        <item>eclipse</item>
+    </string-array>
+    <string-array name="batman">
+        <item>dark knight</item>
+        <item>begins</item>
+        <item>ries</item>
+    </string-array>
+</resources>
